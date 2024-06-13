@@ -1,0 +1,6 @@
+[submodule "my-app"]
+	path = my-app
+	url = ./my-app
+[submodule "myproject"]
+	path = myproject
+	url = ./myproject
